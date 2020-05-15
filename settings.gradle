@@ -1,0 +1,2 @@
+rootProject.name='LoginWithPreferences'
+include ':app'
